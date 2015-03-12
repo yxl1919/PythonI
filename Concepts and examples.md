@@ -11,7 +11,7 @@ Sequence of characters enclosed by a pair of single or double quotes
 Examples are "cats hate dogs" and 'Strings are fun!'.
 Strings are one kind of data in Python. Their data type is denoted str.
 Lecture examples - Hello World
-More examples - Comments, Strings, and Print
+More examples - Comments, Strings, and Print 
 Numbers — Arithmetic Expressions
 There are two kinds of numerical data in Python: integers and decimal numbers.
 Integers correspond to the data type int. Decimal numbers are represented by floating-point numbers corresponding to the data type float.
