@@ -20,7 +20,7 @@ http://www.codeskulptor.org/#examples-more-1a_variables-formulas.py
 
 http://www.codeskulptor.org/#examples-functions.py
 http://www.codeskulptor.org/#examples-more-1b_functions-structure.py
-http://www.codeskulptor.org/#examples-more-1b_functions-uses.py
+http://www.codeskulptor.org/#examples-more-1b_functions-uses.py 
 http://www.codeskulptor.org/#examples-more-1b_functions-scope.py
 http://www.codeskulptor.org/#examples-more-1b_functions-examples.py
 http://www.codeskulptor.org/#examples-more-1b_functions-errors.py
