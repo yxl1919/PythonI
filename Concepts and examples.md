@@ -6,7 +6,7 @@ Comments begin with #, everything to right of the hash is ignored by Python.
 Comments should be frequent so you and others can understand the code.
 Lecture examples - CodeSkulptor
 More examples - Comments, Strings, and Print
-Strings — CodeSkulptor
+Strings — CodeSkulptor 
 Sequence of characters enclosed by a pair of single or double quotes
 Examples are "cats hate dogs" and 'Strings are fun!'.
 Strings are one kind of data in Python. Their data type is denoted str.
