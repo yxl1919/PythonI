@@ -1,5 +1,5 @@
 Week zero Help Center
-
+ 
 Comments — CodeSkulptor
 Non-computational parts of the program that textually describe the behavior of the program.
 Comments begin with #, everything to right of the hash is ignored by Python.
