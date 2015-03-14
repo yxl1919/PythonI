@@ -89,5 +89,24 @@ http://www.codeskulptor.org/#examples-tips3-events.py
 http://www.codeskulptor.org/#examples-tips3.py
 
 #############################################
+http://www.codeskulptor.org/#examples-more-4a_lists-digital_numbers.py
+http://www.codeskulptor.org/#examples-more-4a_lists-rainbow_canvas.py
+http://www.codeskulptor.org/#examples-more-4a_lists-silly_words.py
+http://www.codeskulptor.org/#examples-more-4a_lists-true_false_quiz.py
+http://www.codeskulptor.org/#examples-more-4a_lists-tuples.py
+http://www.codeskulptor.org/#examples-more-4a_lists-structure.py
+
+http://www.codeskulptor.org/#examples-motion_explicit.py
+http://www.codeskulptor.org/#examples-motion_implicit.py
+http://www.codeskulptor.org/#examples-more-4a-motion-drawing_vectors.py
+
+http://www.codeskulptor.org/#examples-more-4a_lists-structure.py
+http://www.codeskulptor.org/#examples-tips4-tuples.py
+http://www.codeskulptor.org/#examples-tips4-global.py
+http://www.codeskulptor.org/#examples-more-4b_velocity_control-ball_track.py
+http://www.codeskulptor.org/#examples-velocity_control.py
+http://www.codeskulptor.org/#examples-keyboard-1.py
+http://www.codeskulptor.org/#examples-more-4a_keyboard_input-shape_selection.py
+http://www.codeskulptor.org/#examples-keyboard_echo.py
 
 
