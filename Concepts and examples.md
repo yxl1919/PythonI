@@ -17,7 +17,7 @@ There are two kinds of numerical data in Python: integers and decimal numbers.
 Integers correspond to the data type int. Decimal numbers are represented by floating-point numbers corresponding to the data type float.
 Floating-point numbers have around 15 decimal digits of accuracy.
 In CodeSkulptor, all numbers (even integers) are represented internally as floating-point numbers.
-Lecture examples - Arithmetic Expressions
+Lecture examples - Arithmetic Expressions 
 More examples - Floats and Ints
 Arithmetic Operators — Arithmetic Expressions
 Five basic arithmetic operators; addition (+), subtraction (-), multiplication (*), division (/) and exponentiation (**)
