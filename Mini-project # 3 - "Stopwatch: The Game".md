@@ -37,3 +37,18 @@ In the submission phase, cut and paste the URL for your cloud-saved mini-project
 
 
 http://www.codeskulptor.org/#user39_QQLNlBisX8_8.py
+
+One:
+http://www.codeskulptor.org/#user39_smtR3wv5heHofzo.py
+
+Two:
+http://www.codeskulptor.org/#user39_rokMzNhkle_3.py
+
+Three:
+http://www.codeskulptor.org/#user38_0Sq4eyyfpI_2.py
+
+Four:
+http://www.codeskulptor.org/#user39_ghlGBD2ETdeXJpD.py
+
+Five:
+http://www.codeskulptor.org/#user39_qWEQ0HyKS8_1.py
